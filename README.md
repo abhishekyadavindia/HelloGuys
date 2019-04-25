@@ -7,7 +7,7 @@ So,For using this HelloGuys.sh file of Shell Script use the steps as follows:</p
 <code>root@kali:~#cd /root/Downloads/HelloGuys/</code>
 <h2>Step 3:-</h2><p>Now,give the executable permission to the file "HelloGuys.sh" for this type:-</p>
 <code>root@kali:~#chmod +x HelloGuys.sh</code>
-<h2>Step 4:</h2><p>After giving executable permission run it using command:-</p>
+<h2>Step 4:-</h2><p>After giving executable permission run it using command:-</p>
 <code>root@kali:~#./HelloGuys.sh</code>
 <p>If comes any error or for more information visit:-https://github.com/abhishekyadavindia/HelloGuys/
 or :-https://abhishekyadavindia.blogspot.com/<p>
