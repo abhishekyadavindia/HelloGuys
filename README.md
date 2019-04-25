@@ -1,7 +1,7 @@
 <h1>HelloGuys README</h1>
 <p>This application is made to execute in Linux Operating Systems/Linux Users using Linux distributions like :-Kali Linux,Ubuntu,Parrot Security OS,etc.
 So,For using this HelloGuys.sh file of Shell Script use the steps as follows:</p>
-<h2>Step 1:</h2>-<p>First after downloading the file from my blog site or GitHub site.Open Terminal Window in your Linux OS/MacOS.</p>
+<h2>Step 1:-</h2><p>First after downloading the file from my blog site or GitHub site.Open Terminal Window in your Linux OS/MacOS.</p>
 <h2>Step 2:-</h2><p>Go to the location wherever you have saved this file.Like in this example we have path /root/Downloads/HelloGuys/</p>
 <p>So, we would enter the file by typing command :-"<code>cd /root/Downloads/HelloGuys/</code>" or, in your case.</p>
 <code>root@kali:~#cd /root/Downloads/HelloGuys/</code>
