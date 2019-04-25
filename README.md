@@ -11,9 +11,7 @@ So,For using this HelloGuys.sh file of Shell Script use the steps as follows:</p
 <code>root@kali:~#./HelloGuys.sh</code>
 <p>If comes any error or for more information visit:-https://github.com/abhishekyadavindia/HelloGuys/
 or :-https://abhishekyadavindia.blogspot.com/<p>
-<br/>
-<hr>
-                                                                Information:
-The file would only run on Linux Distributions.It wouldn't run in windows,android,iOS it would also run in MacOS using the upper Steps.
-                                                          Thank You Have a Good Day!  
+                                                                <h2>Information:</h2>
+<p>The file would only run on Linux Distributions.It wouldn't run in windows,android,iOS it would also run in MacOS using the upper Steps.</p>
+                                                          <p>Thank You Have a Good Day!</p>  
 
